@@ -1,5 +1,4 @@
 # Restaurant_Management_System
-![image (10)](https://github.com/team-vaibhav/Restaurant_Management_System/assets/156879422/4f15c18b-6966-4e17-aa22-d5af7b0aa6b2)
 
  In today's fast-paced world, restaurant owners and managers are constantly seeking ways to
  streamline their operations and provide their customers with a better dining experience. A restaurant
@@ -57,3 +56,5 @@ offerings.
  real-time, helping customers to make informed ordering decisions.
  9) Contactless delivery and pickup: The website can offer contactless delivery or pickup options,
  allowing customers to receive their orders without direct contact with restaurant staff.
+
+![image (10)](https://github.com/team-vaibhav/Restaurant_Management_System/assets/156879422/4f15c18b-6966-4e17-aa22-d5af7b0aa6b2)
